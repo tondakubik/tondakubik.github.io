@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antonín Kubík</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #4CAF50;
+            color: #333;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #5C6BC0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Vítejte na mé osobní stránce</h1>
+    <p>Ahoj, jsem Antonín Kubík. Toto jsou mé osobní stránky, kde sdílím své projekty, blogové příspěvky a další informace.</p>
+    <ul>
+        <li><a href="nothing.html">O mně</a></li>
+        <li><a href="nothing2.html">Projekty</a></li>
+        <li><a href="nothing3.html">Blog</a></li>
+        <li><a href="nothing4.html">Kontakt</a></li>
+        <li><a href="index.html">ENGLISH VERSION</a></li>
+    </ul>
+</body>
+</html>
