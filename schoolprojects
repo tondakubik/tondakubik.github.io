@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #5C6BC0;
+        }
+        img {
+            margin-top: 20px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h1>School projects </h1>
+    <p> <a https://is.cuni.cz/studium/eng/predmety/index.php?id=44a5eeac1dd577e8bcb8756760ad4183&tid=&do=predmet&kod=NMMO212&skr=2023 > Computer solutions of physical problems - NMMO212
+ </a> </p>
+   <p> aaa </p>
+</body>
+</html>
